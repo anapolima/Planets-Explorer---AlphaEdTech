@@ -1,4 +1,4 @@
-# Planets-Explorer
+# Planets Explorer
 
 ## Tecnologias utilizadas
 <div>
